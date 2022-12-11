@@ -1,5 +1,5 @@
 {
-  "name": "template-nodejs",
+  "name": "nodejs-library-template",
   "version": "1.0.0",
   "description": "Library template",
   "main": "./dist/index.js",
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goel4ever/template-nodejs.git"
+    "url": "git+https://github.com/learn-with-me/nodejs-library-template.git"
   },
   "browserslist": [
     "last 2 version "
@@ -34,9 +34,9 @@
     "package"
   ],
   "bugs": {
-    "url": "https://github.com/goel4ever/template-nodejs/issues"
+    "url": "https://github.com/learn-with-me/nodejs-library-template/issues"
   },
-  "homepage": "https://github.com/goel4ever/template-nodejs#readme",
+  "homepage": "https://github.com/learn-with-me/nodejs-library-template#readme",
   "devDependencies": {
     "@commitlint/cli": "^17.3.0",
     "@commitlint/config-conventional": "^17.3.0",

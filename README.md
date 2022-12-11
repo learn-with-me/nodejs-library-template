@@ -16,10 +16,9 @@ Easiest way is to click on the green "Use this template" button from [here](http
 
 ## Upcoming features
 
-- [ ] Example endpoints API
+- [ ] Example library bundle
+- [ ] Package upload to GitHub/npm
 - [ ] Unit testing support
 - [ ] jsDoc support
-- [ ] Swagger documentation
-- [ ] ORM support
 - [ ] Template versioning
 - [ ] Changelog
