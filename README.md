@@ -1,5 +1,7 @@
 # Nodejs API Template
 
+> Note: This template is in progress right now. Version `1.0.0` will be released soon.
+
 This ready-to-use express-based API template comes with a few preset features that will be used in future projects.
 
 ## Features
